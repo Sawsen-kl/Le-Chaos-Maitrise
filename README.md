@@ -1,4 +1,4 @@
-# Projet CasaMode - Exercice "Le Chaos Maîtrisé" 🧪
+# "Le Chaos Maîtrisé"
 
 ## ✅ Rappel des Rôles de l’équipe
 
