@@ -20,11 +20,6 @@
 - **Aujourd’hui** : Je vais ajouter la gestion des erreurs sur l’API et tester les routes.
 - **Blocages** : Problème de connexion locale avec PostgreSQL (résolu).
 
-### **Canada**
-- **Hier** : J’ai configuré la protection de `main` et ouvert les premières PR.
-- **Aujourd’hui** : Je vais faire les merges, surveiller les conflits et vérifier les tests.
-- **Blocages** : Aucun, tout roule.
-
 ---
 
 ## 🌿 Branches créées
