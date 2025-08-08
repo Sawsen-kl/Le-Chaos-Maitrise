@@ -17,8 +17,8 @@
 
 ### **Sawsen**
 - **Hier** : J’ai préparé le setup initial avec `.gitignore`, `requirements.txt` et Flask.
-- **Aujourd’hui** : Je vais ajouter la gestion des erreurs sur l’API et tester les routes.
-- **Blocages** : Problème de connexion locale avec PostgreSQL (résolu).
+- **Aujourd’hui** : Je vais optimiser la fonction calculatrice.
+- **Blocages** : Aucun pour l'instant.
 
 ---
 
@@ -26,7 +26,7 @@
 
 - `feature/signup-endpoint` – Ajout du formulaire d’inscription (Amine)
 - `feature/login-endpoint` – Route sécurisée de login utilisateur (Canada)
-- `feature/reset-password` – Route de réinitialisation mot de passe (Sawsen)
+- `feature/calculatrice` – Notions base de calcul (Sawsen)
 
 ---
 
